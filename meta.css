@@ -127,3 +127,17 @@
       display: block;
     }
   }
+  @media (max-width: 480px) {
+    .navbar .links,
+    .navbar .action_btn {
+      display: block;
+    }
+    
+    .toggle_btn {
+      display: block;
+    }
+    
+    .dropdown_menu {
+      display: block;
+    }
+  }
